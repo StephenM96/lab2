@@ -1,4 +1,4 @@
-import Cats from "./Cats";
+import Cats from "./SingleCat";
 
 function BigCats(props) {
     const bigCats = [
